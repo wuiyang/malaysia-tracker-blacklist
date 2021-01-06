@@ -1,0 +1,10 @@
+# Shopee
+0.0.0.0 log-collector.shopee.com.my
+0.0.0.0 c-api-bit.shopeemobile.com
+
+# Lazada
+0.0.0.0 ldns.ialicdn.com
+0.0.0.0 client.ialicdn.com
+0.0.0.0 mobgslb.tbcache.com
+0.0.0.0 sg.mmstat.com
+0.0.0.0 arms-retcode-sg.aliyuncs.com
